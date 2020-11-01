@@ -1,0 +1,63 @@
+* {
+	font-family: cursive;
+}
+
+#header-nav  {
+	border-radius:0;
+	border:0 solid black;
+	background-color: pink;
+	font-size: 25px;
+	margin:0px;
+	font-color:solid black;
+}
+
+
+#Chicken {
+	text-align: center;
+	border:1px solid black;
+	margin: 80px;
+	background-color: pink;
+	height: 900px
+}
+
+#Beef {
+	text-align: center;
+	border:1px solid black;
+	margin: 80px;
+	background-color:pink;
+	height:900px;
+}
+
+#Sushi {
+	text-align: center;
+	border:1px solid black;
+	margin: 80px;
+	background-color: pink; 
+	height: 900px
+}
+
+#OurMenu {
+	text-align: center;
+	margin: 50px;
+}
+
+#bs-example-navbar-collapse-1 {
+	text-align:center;
+	border:1px solid black;
+	margin: 5px;
+	background-color:blue;
+}
+
+#burger-box {
+	background-color: pink;
+}
+
+li {
+	border:1px solid black;
+	margin: 0px;
+	background-color: pink;
+	font-size: 35px;
+	font-color: solid black;
+	text-align: center
+}
+
